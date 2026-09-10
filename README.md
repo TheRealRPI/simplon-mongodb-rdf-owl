@@ -1,6 +1,6 @@
 # 🎬 StreamVault — MongoDB & Ontologies OWL/RDF
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![OWL](https://img.shields.io/badge/-OWL-FF6F00?style=flat)
 ![RDF](https://img.shields.io/badge/-RDF-0052CC?style=flat)
 ![Protégé](https://img.shields.io/badge/-Protégé-6B46C1?style=flat)
@@ -45,7 +45,7 @@ Création d'une ontologie cinéma « Cinéma Paradiso » avec Protégé Desktop 
 
 ## 🗂️ Structure du projet
 
-```
+```text
 .
 ├── src/
 │   └── livres.json                    # Données source MongoDB (8 livres)
@@ -60,11 +60,9 @@ Création d'une ontologie cinéma « Cinéma Paradiso » avec Protégé Desktop 
 
 ## 🔗 Ressources
 
-- [MongoDB Compass](https://www.mongodb.com/fr-fr/products/compass)
-- [Protégé Desktop](https://protege.stanford.edu/)
-- [WebProtégé](https://webprotege.stanford.edu/)
-- [WebVOWL](https://service.tib.eu/webvowl/)
 - [MongoDB — Query Predicates (Comparison)](https://www.mongodb.com/docs/manual/reference/mql/query-predicates/comparison/)
+- [MongoDB — Query and Projection Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
+- [W3C — OWL 2 Web Ontology Language](https://www.w3.org/TR/owl2-overview/)
 
 ## ✍️ Auteurs
 
